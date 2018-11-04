@@ -130,7 +130,7 @@ nav > a:hover {
 }
 
 #website1 {
-    background-image: url(../images/heh-screen-shot.png);
+    background-image: url(heh-screen-shot.png);
 }
 
 .site:hover {
@@ -139,14 +139,14 @@ nav > a:hover {
 }
 
 #website2 {
-    background-image: url(../images/tmhs-screen-shot.png);
+    background-image: url(tmhs-screen-shot.png);
     top: 65vh;
     left: 50%;
     transform: translate(-52%, -50%);
 }
 
 #website3 {
-    background-image: url(../images/heh-screen-shot.png);
+    background-image: url(heh-screen-shot.png);
     left: 65vw;
 }
 
@@ -247,12 +247,12 @@ nav > a:hover {
 }
 /*
 #arrow-left {
-    background-image: url(../images/arrow-left.png);
+    background-image: url(arrow-left.png);
     left: 10vw;
 }
 
 #arrow-right {
-    background-image: url(../images/arrow-right.png);
+    background-image: url(arrow-right.png);
     left: 85vw;
 }*/
 
